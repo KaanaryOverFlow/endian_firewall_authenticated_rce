@@ -14,10 +14,14 @@ no. we can run command.check the permission.
 
 ![permission](https://user-images.githubusercontent.com/29048982/107676786-97166700-6caa-11eb-85be-fb8d3bd0acfc.png)
 
+we can run command as nobody.
+
 
 
 1-) login in web application.
+
 2-) create backup and select any options and write payload to comment. eg. aaaa$(id)bbbb
+
 3-) start to backup.
 
 
