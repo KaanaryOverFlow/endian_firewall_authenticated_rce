@@ -1,4 +1,4 @@
-# endian_firewall_authenticated_rce
+# endian_firewall_authenticated_rce CVE-2021-27201
 
 Endinan Firewall Community version 3.3.2 authenticated remote code execution as nobody.
 
